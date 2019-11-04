@@ -102,11 +102,15 @@ nav {
           align-items: center;
           margin: 7px 0;
           font-size: 13px;
+          cursor: pointer;
           .spike-country {
             width: 100px;
           }
           .spike-total {
             width: 50px;
+          }
+          &:hover {
+            background-color: rgba(0,0,0,.2);
           }
         }
       }
@@ -127,7 +131,8 @@ nav {
     }
     #close-modal {
       position: absolute;
-      left: 260px;
+      right: 20px;
+      top: 10px;
       cursor: pointer;
     }
   }

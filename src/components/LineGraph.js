@@ -113,7 +113,7 @@ class LineGraph extends React.Component {
         <CanvasJSChart options={ options }/>
         <div id="spike-data-modal">
           <div onClick={ this.closeModal } id="close-modal">close (X)</div>
-          <h3>Spike Data for {day.day}</h3>
+          <h3>Spike Data for {day.day} <span>(click country for breakdown)</span></h3>
           <SpikeData day={ day }/>
         </div>
       </div>
