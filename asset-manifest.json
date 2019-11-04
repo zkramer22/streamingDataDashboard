@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/streamingDataDashboard/static/css/main.fda3fbcf.chunk.css",
-    "main.js": "/streamingDataDashboard/static/js/main.a0625170.chunk.js",
-    "main.js.map": "/streamingDataDashboard/static/js/main.a0625170.chunk.js.map",
+    "main.css": "/streamingDataDashboard/static/css/main.345ab528.chunk.css",
+    "main.js": "/streamingDataDashboard/static/js/main.673811a7.chunk.js",
+    "main.js.map": "/streamingDataDashboard/static/js/main.673811a7.chunk.js.map",
     "runtime-main.js": "/streamingDataDashboard/static/js/runtime-main.994386e3.js",
     "runtime-main.js.map": "/streamingDataDashboard/static/js/runtime-main.994386e3.js.map",
     "static/js/2.c2e813ea.chunk.js": "/streamingDataDashboard/static/js/2.c2e813ea.chunk.js",
     "static/js/2.c2e813ea.chunk.js.map": "/streamingDataDashboard/static/js/2.c2e813ea.chunk.js.map",
     "index.html": "/streamingDataDashboard/index.html",
-    "precache-manifest.3bcb18663a5786adafc5d3026e8a3713.js": "/streamingDataDashboard/precache-manifest.3bcb18663a5786adafc5d3026e8a3713.js",
+    "precache-manifest.03c5e65a8381e99fb2273305bbc78423.js": "/streamingDataDashboard/precache-manifest.03c5e65a8381e99fb2273305bbc78423.js",
     "service-worker.js": "/streamingDataDashboard/service-worker.js",
-    "static/css/main.fda3fbcf.chunk.css.map": "/streamingDataDashboard/static/css/main.fda3fbcf.chunk.css.map"
+    "static/css/main.345ab528.chunk.css.map": "/streamingDataDashboard/static/css/main.345ab528.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.994386e3.js",
     "static/js/2.c2e813ea.chunk.js",
-    "static/css/main.fda3fbcf.chunk.css",
-    "static/js/main.a0625170.chunk.js"
+    "static/css/main.345ab528.chunk.css",
+    "static/js/main.673811a7.chunk.js"
   ]
 }
