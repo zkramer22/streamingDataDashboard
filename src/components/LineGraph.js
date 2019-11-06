@@ -107,7 +107,6 @@ class LineGraph extends React.Component {
   			}
       ]
 		}
-
     return (
       <div>
         <CanvasJSChart options={ options }/>

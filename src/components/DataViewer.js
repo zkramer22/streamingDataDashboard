@@ -4,14 +4,12 @@ import { DataField } from './DataField'
 import LineGraph from './LineGraph'
 
 class DataViewer extends React.Component {
-  constructor(props) {
-    super(props)
+  constructor() {
+    super()
     this.state = {
-      todayDate: new Date('Oct 18, 2019 11:59:00'),
       range: 365,
       days: {}
     }
-    this.handleRangeChange = this.handleRangeChange.bind(this)
   }
 
   componentDidMount() {
@@ -55,7 +53,6 @@ class DataViewer extends React.Component {
 
   render() {
     const { days, range } = this.state
-
     const dataRange = Object.values(days).slice(0, range).reverse()
 
     return (

@@ -87,11 +87,12 @@ nav {
     }
     #spike-data-wrapper {
       display: flex;
+      overflow-x: scroll;
       #spike-data-container {
         display: flex;
         flex-direction: column;
         max-height: 27vh;
-        max-width: 380px;
+        min-width: 180px;
         overflow-y: scroll;
         padding: 15px;
         margin: 0 10px 15px 10px;

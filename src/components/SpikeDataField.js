@@ -17,8 +17,6 @@ export const SpikeDataField = (props) => {
     entries = Object.entries(countryData[field])
     sorted = field === 'age' ? sortDataByFieldName(entries) : sortDataByStreams(entries)
     total = countryData.total
-    console.log(sorted);
-    console.log(total);
   }
   else {
     sorted = []
